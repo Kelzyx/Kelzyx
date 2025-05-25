@@ -2,7 +2,7 @@
 
 
 - Estudando back-end com Python 
-- Estudando TypeScript, Python, JavaScript, HTML e CSS
+- Estudando Java, TypeScript, Python, JavaScript, HTML e CSS
 - Contato : kelofc1@gmail.com
 
   <a href="https://github.com/Kelzyx">
